@@ -17,7 +17,7 @@ Link:
 
 Login details:
 Current built-in users are "punsach," "kaitholz," and "wustl330"
-The "punsach" user already has one of each file type (.jpg, .csv, .txt, and .pdf) in it, if you wish to test viewability
+The "punsach" user already has one of each file type (.jpg, .csv, and .txt) in it, if you wish to test viewability
 
 
 ### Creative Portion ###
