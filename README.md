@@ -22,7 +22,6 @@ The "punsach" user already has one of each file type (.jpg, .csv, .txt, and .pdf
 
 ### Creative Portion ###
 
-We added the ability to add new custom users at the login page. It adds a line to the users.txt file and creates a fully functional user.
+We added the ability to add new custom users at the login page. Submitting a new name creates a fully functional user.
 
-In addition to that, we created a sharing capability, where users can choose a file and type in the name of the (valid) user with whom they wish to share it.
-
+We also created a sharing capability, where users can choose a file and type in the name of the (valid) user with whom they wish to share it.
