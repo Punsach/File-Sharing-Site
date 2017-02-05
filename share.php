@@ -1,4 +1,7 @@
  <!-- Allows user to enter username to share file with -->
+ <!DOCTYPE html>
+<html>
+   <body>
  <form method="POST">
     <p>
     <label for="user">Enter the username you would like to share with:</label>
@@ -38,5 +41,8 @@
     }
     
 ?>
+
+</body>
+</html>
             
             
