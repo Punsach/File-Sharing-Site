@@ -52,7 +52,7 @@
             //Determines the user that is logged in and displays the files associated with the user 
             if(isset($_SESSION['use']))
             {
-                $username = $_SESSION['use'];
+                $username = htmlentities($_SESSION['use']);
                 echo "Welcome <strong>" . $username . "</strong>\n" . "<br>";
                 $dir    = sprintf("/srv/%s", $username) ;
                 $files = array_diff(scandir($dir), array('..','.'));
